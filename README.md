@@ -5,4 +5,4 @@
 ``index.js`` - dosyasındaki boşlukları doğru bi şekilde doldur.
 ``!INSTALL.bat`` - dosyasını çalıştır, sonra ``baslat.bat`` dosyasını çalıştır ve botun hazır.
 
-![image](https://github.com/batumsh/MTA-Oyuncu-Bot/assets/142420648/e5364c4c-f7d7-4971-bb3d-853f0f807c0a)
+![image](https://github.com/batumsh/mta-discord-oyunculistesi-bot/assets/142420648/7246a4c1-5655-4c65-ab35-a47a5a8ffb92)
